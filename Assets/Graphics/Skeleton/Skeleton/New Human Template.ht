@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1105 &110500000
+HumanTemplate:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Human Template
+  m_BoneTemplate:
+    Chest: VERTEBRAE_T12
+    Head: HEAD
+    Hips: PELVIS
+    Jaw: JAW
+    Left Index Distal: FING_INDEX_C.L
+    Left Index Intermediate: FING_INDEX_B.L
+    Left Index Proximal: FING_INDEX_A.L
+    Left Little Distal: FING_PINKY_C.L
+    Left Little Intermediate: FING_PINKY_B.L
+    Left Little Proximal: FING_PINKY_A.L
+    Left Middle Distal: FING_MID_C.L
+    Left Middle Intermediate: FING_MID_B.L
+    Left Middle Proximal: FING_MID_A.L
+    Left Ring Distal: FING_RING_C.L
+    Left Ring Intermediate: FING_RING_B.L
+    Left Ring Proximal: FING_RING_A.L
+    Left Thumb Distal: FING_THUMB_B.L
+    Left Thumb Intermediate: FING_THUMB_A.L
+    Left Thumb Proximal: THUMB_PALM.L
+    LeftFoot: FOOT.L
+    LeftHand: HAND.L
+    LeftLowerArm: MCH_forearm.L
+    LeftLowerLeg: TIBIA.L
+    LeftShoulder: PIV_SHOULDER.L
+    LeftToes: TOE_BIG_A.L
+    LeftUpperArm: HUMERUS.L
+    LeftUpperLeg: MCH_femur.L
+    Neck: CONTROL_NECK
+    Right Index Distal: FING_INDEX_C.R
+    Right Index Intermediate: FING_INDEX_B.R
+    Right Index Proximal: FING_INDEX_A.R
+    Right Little Distal: FING_PINKY_C.R
+    Right Little Intermediate: FING_PINKY_B.R
+    Right Little Proximal: FING_PINKY_A.R
+    Right Middle Distal: FING_MID_C.R
+    Right Middle Intermediate: FING_MID_B.R
+    Right Middle Proximal: FING_MID_A.R
+    Right Ring Distal: FING_RING_C.R
+    Right Ring Intermediate: FING_RING_B.R
+    Right Ring Proximal: FING_RING_A.R
+    Right Thumb Distal: FING_THUMB_B.R
+    Right Thumb Intermediate: FING_THUMB_A.R
+    Right Thumb Proximal: THUMB_PALM.R
+    RightFoot: FOOT.R
+    RightHand: HAND.R
+    RightLowerArm: MCH_forearm.R
+    RightLowerLeg: TIBIA.R
+    RightShoulder: PIV_SHOULDER.R
+    RightToes: TOE_BIG_A.R
+    RightUpperArm: HUMERUS.R
+    RightUpperLeg: MCH_femur.R
+    Spine: VERTEBRAE_L3
+    UpperChest: VERTEBRAE_T9
