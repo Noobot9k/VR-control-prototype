@@ -3,6 +3,8 @@ This is a VR prototype I made throughout 2020. I experimented with full humanoid
 
 Made in Unity 2020.3.48f1
 
+[Itch.io](https://pc-hris.itch.io/vr-control-prototype)
+
 ## Gesture controls:
 
 Standing near some rocks on the ground, point the palm of either of your hands downward, and then sharply move your hand upward. This should cause the rocks around you to begin floating.
